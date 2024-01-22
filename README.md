@@ -25,7 +25,8 @@ Passionate Frontend Developer with expertise in JavaScript and React, specializi
 - **Testing:** Jest, Enzyme
 - **Package Managers:** npm, Yarn, pub
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](#https://www.linkedin.com/in/bishwajeet-pandey-a308b7192/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishwajeet-pandey-a308b7192/)
+
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project. Let's create amazing things together!
 
